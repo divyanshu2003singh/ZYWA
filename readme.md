@@ -17,13 +17,13 @@ The Card Status Management System is a Node.js application designed to manage th
 1. Clone the repository to your local machine:
 
    ```
-   git clone https://github.com/your-username/card-status-management-system.git
+   git clone https://github.com/divyanshu2003singh/ZYWA.git
    ```
 
 2. Navigate to the project directory:
 
    ```
-   cd card-status-management-system
+   cd ZYWA
    ```
 
 3. Install dependencies using npm:
@@ -43,7 +43,7 @@ The Card Status Management System is a Node.js application designed to manage th
 4. Start the server:
 
    ```
-   npm start
+   nodemon start
    ```
 
 5. Once the server is running, you can use Postman or any other API testing tool to interact with the API endpoints.
